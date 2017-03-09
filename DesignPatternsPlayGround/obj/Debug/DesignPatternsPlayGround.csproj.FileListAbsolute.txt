@@ -1,0 +1,2 @@
+c:\users\p1ra7e\documents\visual studio 2015\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\bin\Debug\DesignPatternsPlayGround.exe.config
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\bin\Debug\DesignPatternsPlayGround.exe.config
