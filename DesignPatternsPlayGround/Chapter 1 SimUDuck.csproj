@@ -43,15 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ducks\Duck.cs" />
+    <Compile Include="Ducks\Interfaces\FlyBehaviour.cs" />
+    <Compile Include="Ducks\Interfaces\Implementations\Fly\FlyNoWay.cs" />
+    <Compile Include="Ducks\Interfaces\Implementations\Fly\FlyRocketPowered.cs" />
+    <Compile Include="Ducks\Interfaces\Implementations\Fly\FlyWithWings.cs" />
+    <Compile Include="Ducks\Interfaces\Implementations\Quack\MuteQuack.cs" />
+    <Compile Include="Ducks\Interfaces\Implementations\Quack\Quack.cs" />
+    <Compile Include="Ducks\Interfaces\Implementations\Quack\Squeak.cs" />
+    <Compile Include="Ducks\SubClasses\MallardDuck.cs" />
+    <Compile Include="Ducks\Interfaces\QuackBehaviour.cs" />
+    <Compile Include="Ducks\SubClasses\ModelDuck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Ducks\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -10,7 +10,7 @@ namespace DesignPatternsPlayGround.Ducks.Interfaces.Implementations.Quack
     {
         public void quack()
         {
-            Console.WriteLine("Implements Duck Quacking");
+            Console.WriteLine("Quack");
         }
     }
 }

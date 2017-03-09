@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace DesignPatternsPlayGround.Ducks.Interfaces.Implementations.Fly
 {
-    class FlyNoWay : FlyBehaviour
+    class FlyRocketPowered : FlyBehaviour
     {
         public void fly()
         {
-            //Do nothing - Can't fly
-            Console.WriteLine("Can't fly");
+            Console.WriteLine("I'm flying with a rocket!");
         }
     }
 }

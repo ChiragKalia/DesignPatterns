@@ -6,18 +6,15 @@ using System.Threading.Tasks;
 
 namespace DesignPatternsPlayGround.Ducks
 {
-    public class Duck
+    public abstract class Duck
     {
         protected QuackBehaviour quackBehaviour;
         protected FlyBehaviour flyBehaviour;
         public void swim()
         {
-            Console.WriteLine("Swim");
+            Console.WriteLine("All ducks float, Even decoys!");
         }
-        public void display()
-        {
-            Console.WriteLine("Duck");
-        }
+        public abstract void display();
         public void PerformQuack()
         {
             quackBehaviour.quack();
@@ -25,6 +22,14 @@ namespace DesignPatternsPlayGround.Ducks
         public void PerformFly()
         {
             flyBehaviour.fly();
+        }
+        public void SetFlyBehaviour(FlyBehaviour fb)
+        {
+            flyBehaviour = fb;
+        }
+        public void SetQuackBehaviour(QuackBehaviour qb)
+        {
+            quackBehaviour = qb;
         }
     }
 }

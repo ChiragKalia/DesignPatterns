@@ -1,0 +1,6 @@
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\bin\Debug\DesignPatternsPlayGround.exe.config
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\bin\Debug\DesignPatternsPlayGround.exe
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\bin\Debug\DesignPatternsPlayGround.pdb
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\obj\Debug\Chapter 1 SimUDuck.csprojResolveAssemblyReference.cache
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\obj\Debug\DesignPatternsPlayGround.exe
+E:\Projects\DesignPatternsPlayGround\DesignPatternsPlayGround\obj\Debug\DesignPatternsPlayGround.pdb

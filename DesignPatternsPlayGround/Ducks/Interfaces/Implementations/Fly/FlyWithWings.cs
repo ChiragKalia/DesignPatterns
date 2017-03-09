@@ -10,7 +10,7 @@ namespace DesignPatternsPlayGround.Ducks.Interfaces.Implementations.Fly
     {
         public void fly()
         {
-            Console.WriteLine("It implements duck flying");
+            Console.WriteLine("I'm Flying!!");
         }
     }
 }
