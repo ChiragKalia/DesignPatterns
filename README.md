@@ -1,7 +1,13 @@
-# DesignPatternsPlayGround
-In this repository I'll implement Head First Design Patterns's design patterns to enrich my design patterns knowledge.
+# DesignPatterns
+Hi All, In this project I'm using HEAD FIRST DESIGN PATTERN's chapter by chapter.
 
 Prerequisites -
 
 1) Basic concepts of C#
 2) Visual Studio
+
+
+So,
+
+1) CHAPTER1 project is based on the first chapter of HFDP's SimUDuck project. It's an introduction to design patterns.
+2) CHAPTER2 project will be the implementation of HFDP's second chapter(Weather-O-Rama) based on observer pattern.
