@@ -1,0 +1,6 @@
+D:\Projects\DesignPatterns\Chapter1\bin\Debug\Chapter1.exe.config
+D:\Projects\DesignPatterns\Chapter1\bin\Debug\Chapter1.exe
+D:\Projects\DesignPatterns\Chapter1\bin\Debug\Chapter1.pdb
+D:\Projects\DesignPatterns\Chapter1\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatterns\Chapter1\obj\Debug\Chapter1.exe
+D:\Projects\DesignPatterns\Chapter1\obj\Debug\Chapter1.pdb
