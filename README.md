@@ -1,5 +1,5 @@
 # DesignPatterns
-Hi All, In this project I'm using HEAD FIRST DESIGN PATTERN's chapter by chapter.
+Hi All, In this project I'm using **HEAD FIRST DESIGN PATTERNS** chapter by chapter.
 
 Prerequisites -
 
